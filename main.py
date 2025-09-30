@@ -403,7 +403,7 @@ if __name__ == "__main__":
 
     # Wczytanie danych z plików
     plik1 = 'graph10.txt'
-    plik2 = 'architektura.txt'
+    plik2 = 'architecture.txt'
 
     graf = Graf()
     graf.wczytaj_dane_file1(plik1)
